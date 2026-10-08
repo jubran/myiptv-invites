@@ -2,5 +2,21 @@
   "version": 2,
   "salt": "RaqUcMpNmvutjA+3kSZh2g==",
   "iterations": 600000,
-  "invites": []
+  "invites": [
+    {
+      "id": "9cbfed0ef7a894a920b6e669daec86e3",
+      "nonce": "3pveWxb8CiJT641j",
+      "ct": "BTAKq1AWWgFeyXhaZqR04eEfsraO0pq19Wl8Ww7/KRAL3TDDhZRZjoGnqu0IpcMGGTQI7XpegZs4JejzgDgkousC3ng3o2HXB1EBEf8t/3qTU6bBKoQ="
+    },
+    {
+      "id": "1fdbb2ac42be321e27e6c94a91f70518",
+      "nonce": "z+/uCxm23+acoiMg",
+      "ct": "EGLGde1n/AeP/XW59STbmlP5KlGW7LEdvnIAxL2SjfwMIdRM0KpoBwlWD30wE1QnDTRpTVB0ZQei1hJLY4xbtxjdkJmz3aTAh9yBQbM3b9abH3vPYm0="
+    },
+    {
+      "id": "9ad6f968b330369b58bf8d19060f6c36",
+      "nonce": "En6PWZMSuHd0NFGp",
+      "ct": "62qHMtzymF3CAvztDXo0HChAcaD5bj9TsyufCAjtm9GjYsQ3U6j9BCyXir9cq93PwILEar0X71iV6mVQQL6lTTH2TvGwTNqRBiRm7Ee/p8eWPoa8jIk="
+    }
+  ]
 }
