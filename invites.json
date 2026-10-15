@@ -1,6 +1,10 @@
 {
   "invites" : [
-
+    {
+      "ct" : "+KqOOinoRxxJ2DxRCcfk8KJ9o88oTE6H+zQfPJG889rX+fd0mnZ8zUKAzXztnVeLmYo2oZzH/xj88lC4iHfeMBjPnN0bK3UAnMuUOjDDN5kUvo6iJA==",
+      "id" : "2584f166d8a58676420a586613f1f70a",
+      "nonce" : "ka+6Q5eQ+XpEvSHX"
+    }
   ],
   "iterations" : 600000,
   "salt" : "RaqUcMpNmvutjA+3kSZh2g==",
