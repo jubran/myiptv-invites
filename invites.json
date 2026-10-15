@@ -1,15 +1,6 @@
 {
   "invites" : [
-    {
-      "ct" : "A45sV+BoJj1GSajR/jrm4aOpYNBKxaVRSpBFehN5IcjxM0LSTQ/etDYiSOqTutZVpuW/kSnS8bCD1rUI1OXTnxsWCbjpmBo/S8Q+HGQMWdXLgi8JFA==",
-      "id" : "1a7ee0914a84fbdc754f33b81989695c",
-      "nonce" : "SXyuRKrziMCLYjfL"
-    },
-    {
-      "ct" : "sHrxhG2DcOq3zrF4paXJzwK2Sn4dDmVBGI0WsYxd7XJ7o0Gn5Xoa3Su/0aKVMN/NgoUYSp0uD2z8alAqSMOwNw74Utxe94vR0JSo5C1KNaGDkbt4Hw==",
-      "id" : "a0d74d38f0b3ed6136da171f649f55bf",
-      "nonce" : "zFX4fcKdK/1uadL3"
-    }
+
   ],
   "iterations" : 600000,
   "salt" : "RaqUcMpNmvutjA+3kSZh2g==",
